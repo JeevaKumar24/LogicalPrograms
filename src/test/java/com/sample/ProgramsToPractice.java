@@ -147,6 +147,7 @@ public static void separateCharacPredefined (String words) {
 	public static void main(String[] args) {
 		int [] odd = {1,3,5,7,15};
 		missingArrayElement(odd,15);
+		String s="Hi";
 		separateCharacters("cdccA3433!@#");
 		//separateCharacPredefined("Adsac456#$%");
 		//generatePermutations("abc", "");
