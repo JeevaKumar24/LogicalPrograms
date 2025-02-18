@@ -127,7 +127,7 @@ public static void separateCharacPredefined (String words) {
 	 * Occurrence of a word using regex 
 	 */
     public static void letterOcuurance(String str) {
-    	
+    	char[] ch = str.toCharArray();
     }
     
     public static void wordOcuurance(String str,String word) {
